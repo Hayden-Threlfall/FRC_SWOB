@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scouting-252522",
+  "private_key_id": "fbef137f2531bac6bde5df53f898c1db25252566",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCCXARj6QARIrhT\nqb3LXmodoPOztnDcsQnJzlmbeNvAvdVhQTXTCajtoxIxSsMrl5FemIpvvq9DZ04B\nC9nApcXsOCoYICpbTR6kjvypy7oCur0tTKBx0qprrZbleLRCoZ+TDI3OYEuD+BJC\nAVT191pZXH3l3dVid+9KmguLogVYHMSTBNeN/rA2LPqa8OszE+18bVu6XZiviSal\ntR8A8BmvXUNuijUxZXjnBjWW79BzvFZ16KsefQC+vd8KMbyaI/5geCeRIB/GeolH\nNwa3v2vhj8Hw6rXRmXvcBJXgDvOod9hcEUzUK5ico9u+WOmDPcRpfA/2cNizqdvm\nAZBD8FWvAgMBAAECgf9Qmbj4n6pGW8OciVcZi9k1VAXszuD5k1h6ANMdlwpItDvN\nCs3zrk57e3zotCyKx3VjmhH+c1XqVxnj1N2prWggpgcXvxS6g4a372e3S2RJuXWH\nsUbwh1DX1VhS0uE0CHF9VbN8wlaA+SpQye++JTJKDlPJg6i1OXK69s1RP26gwkbh\nFvH/i04GCAa5qYYxfn3tlcrS0vS5nJjnehKX5q1M1YG4Ul7uFU5nVPK57oo+4jbm\nbBDwamEnCQXHC30askRTf3zZPA4bTUA9x34EETRJ5BqAa2elIuPEo1MnuEU3CPIl\ntn6ZRBbCGUoCZCcsassRXjd8trYKsPNE/WXTSiECgYEAtzQ418Hz9dcvoNL7fG/M\nzg4z36wHfZp8RvzRpDddU1JqIGX5WG3QsY4joHxSX+O3sRiDfvfOXnJ/GVGJQhl6\nxccmAqXz4O06wkNaEwPjheya/l/bUU0U8rv2Clw+w0V03Fk9d4Ds55v4q6sp/0YV\nf8MDQnWN2X9xrJRCVntded0CgYEAtihexEahHJJue60y8yfA7nV+U6etzFTTSKUS\na2y8KDuLtYudp3JxRwWZsh8y9VvPOR9ehtSTFg7PH+bCKAI1ylpk7dS/lAPgs2wE\nMuDuuBidQYuX3I67lYZ7N7+VC8F6aBPIoREXOb5JJbvnByFvBbbYsGUK4N7GSqV7\nmuQcovsCgYA8cg97KHQMndYKEvKEyQJizg7Rcpn6GBl+9nVY4Cd7kUqQq/SL95eO\nrZ4Vmk83chOua68fGjXNtas3uE44L93xGVbyMrz3bm4foEc81OCh1EIDQa9D8NHD\nkL6KBotytBztgsgkALapaC2wvkWaAw6e28HckJqfs0vXLAeDLyrVRQKBgEQYy3Ss\nwsYfp9XsZcOo9OMwYU18vehJPcNGkqA+Qgj4Wb5At2tFyTs3yMFiEHbRH6LHK1tU\nVLhGSQAwEB1M1jcTm++dPRFkcbghhWBP3m5MJV2/hcIaSd4YLDAnGt0OM2h9HN+5\nt+kKTeYhXLi5svt7433uCCcQoSh+vLqm1F3JAoGARA5B8UO8pU8TPRdonfrWdvNg\n0Fsfhhgb9rFg4dU5yR9L6DZit3R2RxVq5E9XfKKy+5JjXbRJD+r0h/WmlGMQpI9E\nv1ox8p3VSdHVFaKjw8eycVRUupPw1JHHn9SOWGJDBF5Wy5HYmQecwHpvWgdbSTMl\nFbrXR68SSwOlqdjT9dk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scouting-report-generator@scouting-252522.iam.gserviceaccount.com",
+  "client_id": "111608301043763881811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scouting-report-generator%40scouting-252522.iam.gserviceaccount.com"
+}
